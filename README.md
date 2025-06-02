@@ -8,7 +8,7 @@ While the overall predictive performance was comparable to XGBoost, the deep neu
 
 ---
 
-### 🔧 Key Tools & Libraries
+### Key Tools & Libraries
 - Python
 - TensorFlow
 - Scikit-learn
